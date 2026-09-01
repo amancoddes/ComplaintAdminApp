@@ -66,3 +66,4 @@ object HiltDependencies {
     }
 
 }
+// check --stat2
